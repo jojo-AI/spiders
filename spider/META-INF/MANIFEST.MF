@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Main-Class: com.example.spider.SpiderApplication
+Class-Path: spring-boot-starter-web-2.1.6.RELEASE.jar phantomjsdriver-1.
+ 2.0.jar checker-compat-qual-2.0.0.jar selenium-ie-driver-3.14.0.jar com
+ mons-codec-1.11.jar classmate-1.4.0.jar cglib-nodep-3.2.4.jar selenium-
+ support-3.14.0.jar jul-to-slf4j-1.7.26.jar spring-context-5.1.8.RELEASE
+ .jar tomcat-embed-el-9.0.21.jar tomcat-embed-core-9.0.21.jar error_pron
+ e_annotations-2.1.3.jar selenium-chrome-driver-3.14.0.jar unbescape-1.1
+ .6.RELEASE.jar hibernate-validator-6.0.17.Final.jar selenium-firefox-dr
+ iver-3.5.1.jar gson-2.8.5.jar jackson-databind-2.9.9.jar selenium-edge-
+ driver-3.14.0.jar assertj-core-3.11.1.jar jackson-datatype-jdk8-2.9.9.j
+ ar selenium-api-3.14.0.jar thymeleaf-spring5-3.0.11.RELEASE.jar jna-pla
+ tform-4.5.2.jar json-path-0.9.1.jar spring-webmvc-5.1.8.RELEASE.jar spr
+ ing-boot-autoconfigure-2.1.6.RELEASE.jar spring-beans-5.1.8.RELEASE.jar
+  httpclient-4.5.9.jar log4j-1.2.17.jar logback-core-1.2.3.jar jboss-log
+ ging-3.3.2.Final.jar spring-web-5.1.8.RELEASE.jar jsoup-1.10.3.jar webm
+ agic-extension-0.7.3.jar spring-boot-starter-json-2.1.6.RELEASE.jar spr
+ ing-boot-starter-logging-2.1.6.RELEASE.jar javax.annotation-api-1.3.2.j
+ ar logback-classic-1.2.3.jar j2objc-annotations-1.1.jar spring-boot-sta
+ rter-2.1.6.RELEASE.jar validation-api-2.0.1.Final.jar tomcat-embed-webs
+ ocket-9.0.21.jar jackson-annotations-2.9.0.jar fastjson-1.2.28.jar comm
+ ons-logging-1.2.jar webmagic-selenium-0.7.3.jar slf4j-api-1.7.26.jar ok
+ http-3.11.0.jar okio-1.14.0.jar log4j-api-2.11.2.jar byte-buddy-1.9.13.
+ jar webmagic-core-0.7.3.jar commons-collections-3.2.1.jar commons-pool2
+ -2.6.2.jar commons-io-1.3.2.jar jedis-2.9.3.jar spring-boot-2.1.6.RELEA
+ SE.jar selenium-java-3.141.59.jar selenium-remote-driver-3.14.0.jar spr
+ ing-boot-starter-thymeleaf-2.1.6.RELEASE.jar jackson-datatype-jsr310-2.
+ 9.9.jar log4j-to-slf4j-2.11.2.jar animal-sniffer-annotations-1.14.jar s
+ elenium-safari-driver-3.14.0.jar spring-aop-5.1.8.RELEASE.jar attoparse
+ r-2.0.5.RELEASE.jar commons-exec-1.3.jar spring-core-5.1.8.RELEASE.jar 
+ thymeleaf-3.0.11.RELEASE.jar json-smart-1.3.1.jar xsoup-0.3.1.jar jna-4
+ .5.2.jar thymeleaf-extras-java8time-3.0.4.RELEASE.jar guava-25.0-jre.ja
+ r spring-jcl-5.1.8.RELEASE.jar spring-expression-5.1.8.RELEASE.jar sele
+ nium-opera-driver-3.14.0.jar jackson-module-parameter-names-2.9.9.jar c
+ ommons-lang3-3.8.1.jar spring-boot-starter-tomcat-2.1.6.RELEASE.jar jsr
+ 305-1.3.9.jar jackson-core-2.9.9.jar snakeyaml-1.23.jar slf4j-log4j12-1
+ .7.26.jar httpcore-4.4.11.jar
+
